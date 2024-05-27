@@ -1,0 +1,35 @@
+.home .info-card{
+    padding-bottom: 8px;
+}
+
+.home .info-card h6{
+    font-size: 22px;
+    color: hsl(218, 98%, 22%);
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+
+.home .card-icon{
+    font-size: 30px;
+    line-height: 0;
+    width: 44px;
+    height: 44px;
+    flex-shrink: 0;
+    flex-grow: 0;
+}
+
+.home .sales-card .card-icon{
+    color: #1454f1;
+    background: #f6f6fe;
+}
+
+.home .revenus-card .card-icon{
+    color: #2eca6a;
+    background: #e0f8e9;
+}
+
+.home .customers-card .card-icon{
+    color: #ff771d;
+    background: #fff;
+}
